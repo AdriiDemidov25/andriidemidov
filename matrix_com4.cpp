@@ -115,7 +115,7 @@ rez = pow(fulls, step);
 cout « "Serednie geometrichne = " « rez « endl;
 
 
-
+//забагато відступів
 
 }
 
